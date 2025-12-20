@@ -1,19 +1,20 @@
 package actions;
 
+import java.util.ArrayList;
 import unit.emptyFoodBankException;
 import world.Person;
 
 public class Food {
     private static final int MIN_VALUE = 1;
     private static final int MAX_VALUE = 5;
-    private final String[] foodBank;
+    private final ArrayList<String> foodBank;
 
     public Food() throws emptyFoodBankException {
         int size = (int) (Math.random() * (MAX_VALUE - MIN_VALUE + 1)) + MIN_VALUE;
-        this.foodBank = new String[size];
+        this.foodBank = new ArrayList<>();
 
-        for (int i = 0; i < foodBank.length; i++) {
-            foodBank[i] = Math.random() < 0.5 ? "варенье" : "пусто";
+        for (int i = 0; i < size; i++) {
+            foodBank.add(Math.random() < 0.5 ? "варенье" : "пусто");
         }
 
         boolean hasJam = false;
@@ -30,8 +31,8 @@ public class Food {
     }
 
     public boolean getFood(Person person) {
-        int index = (int) (Math.random() * foodBank.length);
-        String food = foodBank[index];
+        int index = (int) (Math.random() * foodBank.size());
+        String food = foodBank.get(index);
 
         if ("варенье".equals(food)) {
             person.isAlive = true;
