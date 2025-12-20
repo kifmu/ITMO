@@ -51,6 +51,7 @@ public class Karlson extends Person implements Flyable{
 
     @Override
     public void flyWithSomeone(Person anotherPerson, Place destinationPlace) {
+
         requiredFuel = 40;
         if (this.getLocation().equals(anotherPerson.getLocation()) == false) {
             System.out.println(this.getName() + " и " + anotherPerson.getName() + " находятся в разных местах!");
@@ -100,6 +101,7 @@ public class Karlson extends Person implements Flyable{
         } else {
             State statement = State.None;
             this.correctState(statement);
+
             this.tell();
         }
 
@@ -129,19 +131,10 @@ public class Karlson extends Person implements Flyable{
         }
     }
     @Override
-    public int hashCode() {
-        return super.hashCode() + this.getName().hashCode();
-    }
-
-    @Override
     public String toString() {
         return "персонаж " + this.getName();
     }
-    
-    @Override
-    public boolean equals(Object obj) {
-        return obj.hashCode() == this.hashCode();
-    }
 }
     
+
 
