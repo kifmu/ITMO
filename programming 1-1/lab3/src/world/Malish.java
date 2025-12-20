@@ -50,22 +50,12 @@ public class Malish extends Person{
                 break;
         }
     }
+
     @Override
     public void takeBreath() {
         System.out.println(this.getName() + "вздохнул");
     }
     @Override
-    public int hashCode() {
-        return super.hashCode() + this.getName().hashCode();
-    }
-
-    @Override
     public String toString() {
         return "персонаж " + this.getName();
     }
-    
-    @Override
-    public boolean equals(Object obj) {
-        return obj.hashCode() == this.hashCode();
-    }
-}
