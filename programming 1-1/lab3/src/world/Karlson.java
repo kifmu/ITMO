@@ -34,7 +34,7 @@ public class Karlson extends Person implements Flyable{
             System.out.println(this.getName() + " полетел один "+ directionfly.getFullDirection());
             this.setLocation(destinationPlace.getName());
             this.fuelAmount -= requiredFuel;
-            super.startFlying((int) (Math.random() * 100));
+            this.startFlying((int) (Math.random() * 100));
         } else {
             try {
                 System.out.println(this.getName() + " имеет недостаток варенья.");
@@ -73,7 +73,7 @@ public class Karlson extends Person implements Flyable{
         } else{
             Directions directionfly = new Directions(Directions.Type.TO, Directions.Prepositions.NONE, destinationPlace.getName());
             System.out.println(this.getName() + " полетел с " + anotherPerson.getName() + " " + directionfly.getFullDirection());
-            super.startFlying((int) (Math.random() * 100));
+            this.startFlying((int) (Math.random() * 100));
             anotherPerson.startFlying(this.intensity);
             this.setLocation(destinationPlace.getName());
             anotherPerson.setLocation(destinationPlace.getName());
@@ -119,7 +119,15 @@ public class Karlson extends Person implements Flyable{
     } else {
         throw new fuelException(this.getName() + " не нашел варенья для заправки!");
     }
-}
+    }
+    @Override
+    public void takeBreath(){
+        if (Math.random() < 0.9){
+            System.out.println(this.getName() + (this.isFemale ?" вздохнула":" вздохнул"));
+        } else {
+            die((this.isFemale ?" умерла":" умер") +" от недостатка воздуха.");
+        }
+    }
     @Override
     public int hashCode() {
         return super.hashCode() + this.getName().hashCode();

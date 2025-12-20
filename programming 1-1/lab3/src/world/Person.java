@@ -36,7 +36,7 @@ public abstract class Person{
         this.intensity = intensity;
     }
     
-    public void stopFlying() {
+    public  void stopFlying() {
         this.isFly = false;
         this.intensity = 0;
     }
@@ -66,13 +66,8 @@ public abstract class Person{
         this.location = new Place(locationName);
     }
 
-    public void takeBreath() {
-        if (Math.random() < 0.9){
-            System.out.println(this.getName() + (this.isFemale ?" вздохнула":" вздохнул"));
-        } else {
-            die((this.isFemale ?" умерла":" умер") +" от недостатка воздуха.");
-        }
-    }
+    public abstract void takeBreath();
+    
     public void happen(String name) {
         this.somethingHappened = true;
         System.out.print(name + " произошло");
