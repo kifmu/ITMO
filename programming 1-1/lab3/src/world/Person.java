@@ -53,6 +53,7 @@ public abstract class Person{
     }
     public Sex getSex() {
         return sex;
+
     }
     public void setSex(Sex sex){
         this.sex = sex;
@@ -67,7 +68,7 @@ public abstract class Person{
     }
 
     public abstract void takeBreath();
-    
+
     public void happen(String name) {
         this.somethingHappened = true;
         System.out.print(name + " произошло");
@@ -93,7 +94,7 @@ public abstract class Person{
 
     @Override
     public int hashCode() {
-        return super.hashCode() + this.getName().hashCode();
+        return this.getName().hashCode()+this.getSex().hashCode() + this.getLocation().hashCode();
     }
     
     @Override
@@ -105,4 +106,5 @@ public abstract class Person{
     public boolean equals(Object obj) {
         return obj.hashCode() == this.hashCode();
     }
+
 }
