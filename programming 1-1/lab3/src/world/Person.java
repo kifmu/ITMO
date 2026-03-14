@@ -53,6 +53,7 @@ public abstract class Person{
     }
     public Sex getSex() {
         return sex;
+
     }
     public void setSex(Sex sex){
         this.sex = sex;
@@ -105,4 +106,5 @@ public abstract class Person{
     public boolean equals(Object obj) {
         return obj.hashCode() == this.hashCode();
     }
+
 }

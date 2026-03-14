@@ -18,13 +18,14 @@ public class Malish extends Person{
             System.out.println(this.getName() + (super.isFemale ?" не успела.":" не успел.") + " опомниться.");
         }
     }
+
     public void feelSmth() {
         if (!super.isFly) {
             System.out.println(this.getName() + " не летит, поэтому ничего не чувствует.");
             System.exit(0);
             return;
         }
-        
+
         if (super.intensity < 80) {
             Turning level = Turning.NotSharp;
             super.feel();
@@ -50,10 +51,12 @@ public class Malish extends Person{
                 break;
         }
     }
+
     @Override
     public void takeBreath() {
         System.out.println(this.getName() + "вздохнул");
     }
+
     @Override
     public String toString() {
         return "персонаж " + this.getName();
