@@ -1,0 +1,622 @@
+апр. 09, 2026 1:51:01 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 09, 2026 1:51:02 PM util.ServerLogger info
+INFO: Сервер слушает порт 12345
+апр. 09, 2026 1:52:02 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 09, 2026 1:52:02 PM util.ServerLogger info
+INFO: Сервер слушает порт 12345
+апр. 09, 2026 1:52:15 PM util.ServerLogger info
+INFO: Запрос получен: HELP от /127.0.0.1:54303
+апр. 09, 2026 1:52:15 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 1:52:20 PM util.ServerLogger info
+INFO: Запрос получен: INFO от /127.0.0.1:54303
+апр. 09, 2026 1:52:20 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 1:52:29 PM util.ServerLogger info
+INFO: Запрос получен: HISTORY от /127.0.0.1:54303
+апр. 09, 2026 1:52:29 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 1:52:42 PM util.ServerLogger info
+INFO: Запрос получен: CLEAR от /127.0.0.1:54303
+апр. 09, 2026 1:52:42 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 1:52:44 PM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:54303
+апр. 09, 2026 1:52:44 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 1:53:12 PM util.ServerLogger info
+INFO: Запрос получен: HELP от /127.0.0.1:54303
+апр. 09, 2026 1:53:12 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 1:54:42 PM util.ServerLogger info
+INFO: Запрос получен: INSERT от /127.0.0.1:54303
+апр. 09, 2026 1:54:42 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 1:54:49 PM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:54303
+апр. 09, 2026 1:54:49 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 1:57:03 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 09, 2026 1:57:03 PM util.ServerLogger info
+INFO: Сервер слушает порт 12345
+апр. 09, 2026 1:57:15 PM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:51067
+апр. 09, 2026 1:57:15 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 2:14:05 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 09, 2026 2:14:05 PM util.ServerLogger info
+INFO: Сервер слушает порт 12345
+апр. 09, 2026 2:14:09 PM util.ServerLogger info
+INFO: Запрос получен: HELP от /127.0.0.1:63873
+апр. 09, 2026 2:14:09 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 2:14:14 PM util.ServerLogger info
+INFO: Запрос получен: HISTORY от /127.0.0.1:63873
+апр. 09, 2026 2:14:14 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 2:14:19 PM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:63873
+апр. 09, 2026 2:14:19 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 2:14:41 PM util.ServerLogger info
+INFO: Запрос получен: INSERT от /127.0.0.1:63873
+апр. 09, 2026 2:14:41 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 2:14:44 PM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:63873
+апр. 09, 2026 2:14:44 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 2:15:06 PM util.ServerLogger info
+INFO: Запрос получен: HISTORY от /127.0.0.1:63873
+апр. 09, 2026 2:15:06 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 2:18:47 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 09, 2026 2:18:47 PM util.ServerLogger info
+INFO: Сервер слушает порт 12345
+апр. 09, 2026 2:18:50 PM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:54323
+апр. 09, 2026 2:18:50 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 2:19:07 PM util.ServerLogger info
+INFO: Запрос получен: INSERT от /127.0.0.1:54323
+апр. 09, 2026 2:19:07 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 2:19:22 PM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:54323
+апр. 09, 2026 2:19:22 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 11:39:51 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 09, 2026 11:39:51 PM util.ServerLogger info
+INFO: Сервер слушает порт 12345
+апр. 09, 2026 11:39:54 PM util.ServerLogger info
+INFO: Запрос получен: HELP от /127.0.0.1:65196
+апр. 09, 2026 11:39:54 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 11:40:01 PM util.ServerLogger info
+INFO: Запрос получен: INFO от /127.0.0.1:65196
+апр. 09, 2026 11:40:01 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 11:40:04 PM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:65196
+апр. 09, 2026 11:40:04 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 11:40:32 PM util.ServerLogger info
+INFO: Запрос получен: INSERT от /127.0.0.1:65196
+апр. 09, 2026 11:40:32 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 11:40:35 PM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:65196
+апр. 09, 2026 11:40:35 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 09, 2026 11:40:42 PM util.ServerLogger info
+INFO: Запрос получен: HELP от /127.0.0.1:65196
+апр. 09, 2026 11:40:42 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 11:20:25 AM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 11:20:25 AM util.ServerLogger info
+INFO: Сервер слушает порт 12345
+апр. 10, 2026 11:20:46 AM util.ServerLogger info
+INFO: Запрос получен: HELP от /127.0.0.1:56578
+апр. 10, 2026 11:20:46 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 11:20:52 AM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:56578
+апр. 10, 2026 11:20:52 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 11:21:22 AM util.ServerLogger info
+INFO: Запрос получен: INSERT от /127.0.0.1:56578
+апр. 10, 2026 11:21:22 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 11:21:26 AM util.ServerLogger info
+INFO: Запрос получен: SHOW от /127.0.0.1:56578
+апр. 10, 2026 11:21:26 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 11:21:39 AM util.ServerLogger info
+INFO: Запрос получен: INFO от /127.0.0.1:56578
+апр. 10, 2026 11:21:39 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 11:21:57 AM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 11:21:57 AM util.ServerLogger info
+INFO: Сервер слушает порт 12345
+апр. 10, 2026 12:47:46 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 12:47:46 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 10, 2026 12:48:08 PM util.ServerLogger info
+INFO: Запрос: HELP
+апр. 10, 2026 12:48:08 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 12:48:21 PM util.ServerLogger info
+INFO: Запрос: INSERT
+апр. 10, 2026 12:48:21 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 12:48:24 PM util.ServerLogger info
+INFO: Запрос: SHOW
+апр. 10, 2026 12:48:24 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 12:48:45 PM util.ServerLogger info
+INFO: Запрос: INFO
+апр. 10, 2026 12:48:45 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 12:49:02 PM util.ServerLogger info
+INFO: Запрос: SHOW
+апр. 10, 2026 12:49:02 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 12:49:19 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 12:49:19 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 10, 2026 12:49:24 PM util.ServerLogger info
+INFO: Запрос: SHOW
+апр. 10, 2026 12:49:24 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 12:51:02 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 12:51:02 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 10, 2026 12:52:46 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 12:52:47 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 10, 2026 12:53:03 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 12:53:03 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 10, 2026 12:54:00 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 12:54:00 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 10, 2026 12:55:09 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 12:55:09 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 10, 2026 12:55:51 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 12:55:52 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 10, 2026 1:04:20 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 10, 2026 1:04:20 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 10, 2026 1:04:35 PM util.ServerLogger info
+INFO: Запрос: HELP
+апр. 10, 2026 1:04:35 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 1:05:10 PM util.ServerLogger info
+INFO: Запрос: INSERT
+апр. 10, 2026 1:05:10 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 1:07:17 PM util.ServerLogger info
+INFO: Запрос: SHOW
+апр. 10, 2026 1:07:17 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 10, 2026 10:25:49 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 10:25:49 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 2
+апр. 10, 2026 10:25:49 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 10, 2026 10:25:49 PM util.ServerLogger info
+INFO: 🚀 Сервер готов к работе
+апр. 10, 2026 10:25:49 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения, 'exit' для выхода
+апр. 10, 2026 10:26:20 PM util.ServerLogger info
+INFO: 📥 Запрос: INSERT от /127.0.0.1:61553
+апр. 10, 2026 10:26:20 PM util.ServerLogger info
+INFO: ✅ Команда выполнена: INSERT
+апр. 10, 2026 10:26:20 PM util.ServerLogger info
+INFO: 📤 Ответ отправлен
+апр. 10, 2026 10:26:23 PM util.ServerLogger info
+INFO: 📥 Запрос: SHOW от /127.0.0.1:61553
+апр. 10, 2026 10:26:23 PM util.ServerLogger info
+INFO: ✅ Команда выполнена: SHOW
+апр. 10, 2026 10:26:23 PM util.ServerLogger info
+INFO: 📤 Ответ отправлен
+апр. 10, 2026 10:26:58 PM util.ServerLogger info
+INFO: ✅ Коллекция сохранена вручную
+апр. 10, 2026 10:27:10 PM util.ServerLogger info
+INFO: 📥 Запрос: SHOW от /127.0.0.1:60293
+апр. 10, 2026 10:27:10 PM util.ServerLogger info
+INFO: ✅ Команда выполнена: SHOW
+апр. 10, 2026 10:27:10 PM util.ServerLogger info
+INFO: 📤 Ответ отправлен
+апр. 10, 2026 10:27:16 PM util.ServerLogger info
+INFO: 📥 Запрос: CLEAR от /127.0.0.1:60293
+апр. 10, 2026 10:27:16 PM util.ServerLogger info
+INFO: ✅ Команда выполнена: CLEAR
+апр. 10, 2026 10:27:16 PM util.ServerLogger info
+INFO: 📤 Ответ отправлен
+апр. 10, 2026 10:27:19 PM util.ServerLogger info
+INFO: 📥 Запрос: SHOW от /127.0.0.1:60293
+апр. 10, 2026 10:27:19 PM util.ServerLogger info
+INFO: ✅ Команда выполнена: SHOW
+апр. 10, 2026 10:27:19 PM util.ServerLogger info
+INFO: 📤 Ответ отправлен
+апр. 10, 2026 10:27:22 PM util.ServerLogger info
+INFO: ✅ Коллекция сохранена вручную
+апр. 10, 2026 10:27:31 PM util.ServerLogger info
+INFO: 🚪 Завершение работы по команде...
+апр. 10, 2026 10:53:02 PM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 10, 2026 10:53:02 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 0
+апр. 10, 2026 10:53:02 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 10, 2026 10:53:02 PM util.ServerLogger info
+INFO: 🚀 Сервер готов к работе
+апр. 10, 2026 10:53:02 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения, 'exit' для выхода
+апр. 10, 2026 10:53:21 PM util.ServerLogger info
+INFO: 📥 Запрос: SHOW от /127.0.0.1:50148
+апр. 10, 2026 10:53:21 PM util.ServerLogger info
+INFO: ✅ Команда выполнена: SHOW
+апр. 10, 2026 10:53:21 PM util.ServerLogger info
+INFO: 📤 Ответ отправлен
+апр. 10, 2026 10:53:43 PM util.ServerLogger info
+INFO: 📥 Запрос: INSERT от /127.0.0.1:50148
+апр. 10, 2026 10:53:43 PM util.ServerLogger info
+INFO: ✅ Команда выполнена: INSERT
+апр. 10, 2026 10:53:43 PM util.ServerLogger info
+INFO: 📤 Ответ отправлен
+апр. 10, 2026 10:54:42 PM util.ServerLogger info
+INFO: ✅ Коллекция сохранена вручную
+апр. 10, 2026 10:54:51 PM util.ServerLogger info
+INFO: 📥 Запрос: SHOW от /127.0.0.1:50148
+апр. 10, 2026 10:54:51 PM util.ServerLogger info
+INFO: ✅ Команда выполнена: SHOW
+апр. 10, 2026 10:54:51 PM util.ServerLogger info
+INFO: 📤 Ответ отправлен
+апр. 10, 2026 10:55:05 PM util.ServerLogger info
+INFO: ✅ Коллекция сохранена вручную
+апр. 10, 2026 10:55:14 PM util.ServerLogger info
+INFO: 🚪 Завершение работы по команде...
+апр. 11, 2026 12:07:46 AM util.ServerLogger info
+INFO: === ЗАПУСК СЕРВЕРА ===
+апр. 11, 2026 12:07:46 AM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 11, 2026 12:07:46 AM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 11, 2026 12:07:47 AM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 11, 2026 12:07:47 AM util.ServerLogger info
+INFO: Введите 'save' для сохранения, 'exit' для выхода
+апр. 11, 2026 12:08:03 AM util.ServerLogger info
+INFO: Запрос: SHOW
+апр. 11, 2026 12:08:03 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 12:08:06 AM util.ServerLogger info
+INFO: Запрос: CLEAR
+апр. 11, 2026 12:08:06 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 12:08:13 AM util.ServerLogger info
+INFO: ✅ Коллекция сохранена вручную
+апр. 11, 2026 12:08:16 AM util.ServerLogger info
+INFO: Завершение работы по команде...
+апр. 11, 2026 9:33:20 AM util.ServerLogger info
+INFO: Сервер запущен
+апр. 11, 2026 9:33:21 AM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 0
+апр. 11, 2026 9:33:21 AM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 11, 2026 9:33:21 AM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 11, 2026 9:33:21 AM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 11, 2026 9:33:49 AM util.ServerLogger info
+INFO: Запрос по команде SHOW
+апр. 11, 2026 9:33:49 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 9:34:03 AM util.ServerLogger info
+INFO: Запрос по команде INSERT
+апр. 11, 2026 9:34:03 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 9:34:36 AM util.ServerLogger info
+INFO: Коллекция сохранена вручную
+апр. 11, 2026 9:35:03 AM util.ServerLogger info
+INFO: Сервер запущен
+апр. 11, 2026 9:35:03 AM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 11, 2026 9:35:03 AM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 11, 2026 9:35:03 AM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 11, 2026 9:35:03 AM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 11, 2026 9:35:08 AM util.ServerLogger info
+INFO: Запрос по команде SHOW
+апр. 11, 2026 9:35:08 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 9:40:54 AM util.ServerLogger info
+INFO: Сервер запущен
+апр. 11, 2026 9:40:55 AM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 11, 2026 9:40:55 AM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 11, 2026 9:40:55 AM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 11, 2026 9:40:55 AM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 11, 2026 9:41:13 AM util.ServerLogger info
+INFO: Запрос по команде SHOW
+апр. 11, 2026 9:41:13 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 9:41:16 AM util.ServerLogger info
+INFO: Запрос по команде SHOW
+апр. 11, 2026 9:41:16 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 9:41:40 AM util.ServerLogger info
+INFO: Запрос по команде INSERT
+апр. 11, 2026 9:41:40 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 9:41:50 AM util.ServerLogger info
+INFO: Запрос по команде INSERT
+апр. 11, 2026 9:41:50 AM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 12:37:10 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 11, 2026 12:37:10 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 3
+апр. 11, 2026 12:37:11 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 11, 2026 12:37:11 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 11, 2026 12:37:11 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 11, 2026 2:30:09 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 11, 2026 2:30:09 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 3
+апр. 11, 2026 2:30:09 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 11, 2026 2:30:09 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 11, 2026 2:30:09 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 11, 2026 2:30:21 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 11, 2026 2:30:21 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 2:30:41 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 11, 2026 2:30:41 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 2:30:44 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 11, 2026 2:30:44 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 2:30:57 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 11, 2026 2:30:57 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 4:37:10 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 11, 2026 4:37:11 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 3
+апр. 11, 2026 4:37:11 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 11, 2026 4:37:11 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 11, 2026 4:37:11 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 11, 2026 4:37:26 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 11, 2026 4:37:26 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 4:37:31 PM util.ServerLogger info
+INFO: Запрос по команде INFO
+апр. 11, 2026 4:37:31 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 4:38:27 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 11, 2026 4:38:27 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 4:38:35 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 11, 2026 4:38:35 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 4:38:53 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 11, 2026 4:38:53 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 11, 2026 4:41:36 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 11, 2026 4:41:36 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:00:41 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 23, 2026 12:00:42 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 0
+апр. 23, 2026 12:00:42 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 23, 2026 12:00:42 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 23, 2026 12:00:42 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 23, 2026 12:00:56 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 23, 2026 12:00:56 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:01:02 PM util.ServerLogger info
+INFO: Запрос по команде SHOW
+апр. 23, 2026 12:01:02 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:01:24 PM util.ServerLogger info
+INFO: Запрос по команде INSERT
+апр. 23, 2026 12:01:24 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:01:27 PM util.ServerLogger info
+INFO: Запрос по команде SHOW
+апр. 23, 2026 12:01:27 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:01:43 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 23, 2026 12:01:43 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:03:16 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 23, 2026 12:03:16 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 23, 2026 12:03:16 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 23, 2026 12:03:16 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 23, 2026 12:03:16 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 23, 2026 12:03:21 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 23, 2026 12:03:21 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:03:32 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 23, 2026 12:03:32 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:04:06 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 23, 2026 12:04:06 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 23, 2026 12:04:06 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 23, 2026 12:04:06 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 23, 2026 12:04:06 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 23, 2026 12:04:18 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 23, 2026 12:04:19 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 23, 2026 12:04:19 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 23, 2026 12:04:19 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 23, 2026 12:04:19 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 23, 2026 12:04:24 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 23, 2026 12:04:24 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:04:37 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 23, 2026 12:04:37 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:10:24 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 23, 2026 12:10:24 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 23, 2026 12:10:24 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 23, 2026 12:10:24 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 23, 2026 12:10:24 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 23, 2026 12:10:31 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 23, 2026 12:10:31 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 23, 2026 12:10:40 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 23, 2026 12:10:40 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 25, 2026 1:37:18 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 25, 2026 1:37:18 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 25, 2026 1:37:18 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 25, 2026 1:37:18 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 25, 2026 1:37:18 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 25, 2026 1:37:25 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 25, 2026 1:37:25 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 25, 2026 1:37:28 PM util.ServerLogger info
+INFO: Запрос по команде SHOW
+апр. 25, 2026 1:37:28 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 25, 2026 1:37:32 PM util.ServerLogger info
+INFO: Запрос по команде INFO
+апр. 25, 2026 1:37:32 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 25, 2026 1:37:38 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 25, 2026 1:37:39 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 25, 2026 2:21:37 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 25, 2026 2:21:37 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 25, 2026 2:21:37 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 25, 2026 2:21:37 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 25, 2026 2:21:37 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 25, 2026 2:21:54 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 25, 2026 2:21:54 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 25, 2026 2:21:54 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 25, 2026 2:21:54 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 25, 2026 2:21:54 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 25, 2026 2:21:59 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 25, 2026 2:21:59 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 25, 2026 2:22:00 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 25, 2026 2:22:00 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 25, 2026 2:22:07 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 25, 2026 2:22:07 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 25, 2026 2:31:23 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 25, 2026 2:31:23 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 25, 2026 2:31:23 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 25, 2026 2:31:23 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 25, 2026 2:31:23 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 25, 2026 2:31:30 PM util.ServerLogger info
+INFO: Запрос по команде HELP
+апр. 25, 2026 2:31:30 PM util.ServerLogger info
+INFO: Ответ отправлен
+апр. 25, 2026 2:31:37 PM util.ServerLogger info
+INFO: Запрос по команде EXECUTE_SCRIPT
+апр. 25, 2026 2:31:37 PM util.ServerLogger info
+INFO: Ответ отправлен
