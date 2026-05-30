@@ -1,0 +1,38 @@
+апр. 23, 2026 11:52:34 PM util.ServerLogger info
+INFO: Сервер запущен
+апр. 23, 2026 11:52:34 PM util.ServerLogger info
+INFO: Коллекция загружена. Элементов: 1
+апр. 23, 2026 11:52:34 PM util.ServerLogger info
+INFO: UDP-канал открыт на порту 12345
+апр. 23, 2026 11:52:34 PM util.ServerLogger info
+INFO: Сервер готов к работе
+апр. 23, 2026 11:52:34 PM util.ServerLogger info
+INFO: Введите 'save' для сохранения коллекции
+апр. 24, 2026 1:59:32 PM util.ServerLogger info
+INFO: Сервер запускается...
+апр. 24, 2026 1:59:32 PM util.ServerLogger severe
+SEVERE: PostgreSQL драйвер не найден
+апр. 24, 2026 1:59:32 PM util.ServerLogger info
+INFO: Сервер остановлен
+апр. 24, 2026 1:59:38 PM util.ServerLogger info
+INFO: Сервер запускается...
+апр. 24, 2026 1:59:38 PM util.ServerLogger severe
+SEVERE: PostgreSQL драйвер не найден
+апр. 24, 2026 1:59:38 PM util.ServerLogger info
+INFO: Сервер остановлен
+апр. 24, 2026 2:01:45 PM util.ServerLogger info
+INFO: Сервер запускается...
+апр. 24, 2026 2:01:45 PM util.ServerLogger severe
+SEVERE: PostgreSQL драйвер не найден
+апр. 24, 2026 2:01:45 PM util.ServerLogger info
+INFO: Сервер остановлен
+мая 28, 2026 5:16:45 PM util.ServerLogger info
+INFO: Сервер запускается
+мая 28, 2026 5:16:45 PM util.ServerLogger info
+INFO: Подключение к базе данных
+мая 28, 2026 5:16:47 PM util.ServerLogger severe
+SEVERE: Не удалось подключиться к базе данных
+мая 28, 2026 5:16:47 PM util.ServerLogger severe
+SEVERE: Проверьте, что PostgreSQL запущен и доступен
+мая 28, 2026 5:16:47 PM util.ServerLogger info
+INFO: Сервер остановлен
